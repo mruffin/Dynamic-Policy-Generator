@@ -1,13 +1,14 @@
-# <h1 style="text-align: center; color:#6B98BF;"> Dynamic Policy Generation Tool
 
-## <h2 style="text-align:center;"> 🛑 Stop Please Read 🛑 <br> 🚧 This Repositry is currently under construction. 🚧 <br> Please check back later to find updated usage instructions and working code for reproducibility. 
+# <h1 align="center" style="border-bottom: 0;"> Dynamic Policy Generation Tool
+
+## <h2 style="text-align:center;  border-bottom: 0;"> 🛑 Stop Please Read 🛑 <br> 🚧 This Repositry is currently under construction. 🚧 <br> Please check back later to find updated usage instructions and working code for reproducibility. 
 
 ## Remote Attestation
 **Remote Attestation** is designed to prove a property of a system to a third party, which in this case, is you. It can provide proof that the execution environment can be trusted before beginning to execute code or before proceeding to deliver any secret information. Remote attestation can provide different services, such as measured boot attestation and runtime integrity monitoring, using a hardware-based cryptographic root of trust, otherwise known as a Trusted Platform Module (TPM).
 
 <div style="text-align: center;">
 <img  src="images/keylime.png" alt="Remote Attestation Diagram" width="75" height="75">
-<h2 style="text-align:center;"> Keylime <br> Bootstrap & Maintain Trust on the Edge / Cloud and IoT 
+<h2 style="text-align:center;  border-bottom: 0; margin-top:-1px;"> Keylime
 
 </div>
 
