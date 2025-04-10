@@ -7,8 +7,6 @@
 
 <div align="center">
 <img  src="images/keylime.png" alt="Remote Attestation Diagram" width="75" height="75">
-<h2 style="text-align:center;  border-bottom: 0; margin-top:-1px;"> Keylime
-
 </div>
 
 If you want to **continuously** make sure that things aren’t being altered in real-time you can use Linux kernel's Integrity Measurement Architecture (IMA) with runtime integrity monitoring. The tools in this repository can help you do that. These tools are designed to work with [Keylime](https://keylime.dev/), a highly scalable remote boot attestation and runtime integrity measurement solution.
