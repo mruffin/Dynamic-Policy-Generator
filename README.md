@@ -1,6 +1,6 @@
 <h1 align="center"> Dynamic Policy Generation Tool
 
-<h2 align="center"> 🛑 $${\color{red}Stop Please Read}$$ 🛑 <br> 🚧 This Repositry is currently under construction. 🚧 <br> Please check back later to find updated usage instructions and working code for reproducibility. 
+<h2 align="center"> 🛑 Stop Please Read! 🛑 <br> 🚧 This Repositry is currently under construction. 🚧 <br> Please check back later to find updated usage instructions and working code for reproducibility. 
 
 ## Remote Attestation
 **Remote Attestation** is designed to prove a property of a system to a third party, which in this case, is you. It can provide proof that the execution environment can be trusted before beginning to execute code or before proceeding to deliver any secret information. Remote attestation can provide different services, such as measured boot attestation and runtime integrity monitoring, using a hardware-based cryptographic root of trust, otherwise known as a Trusted Platform Module (TPM).
